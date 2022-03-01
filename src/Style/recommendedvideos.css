@@ -1,0 +1,15 @@
+.recommendedvideos{
+    flex: 1;
+    /* border: 1px solid #f9f9f9; */
+    padding: 50px 20px;
+    padding-bottom: 0;  
+}
+.recommendedvideos > h2 {
+    margin-left:5px;
+    margin-bottom: 20px;
+}
+.recommendedvideos_videos{
+    display: flex;
+    flex-wrap:wrap ;
+
+}
